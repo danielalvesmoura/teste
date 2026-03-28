@@ -6,6 +6,10 @@
     font-family: "Noto Sans", sans-serif;
 }
 
+li {
+    
+}
+
 body {
     margin: 0;
     background-color: var(--azul-escuro);
