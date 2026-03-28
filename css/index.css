@@ -1,0 +1,14 @@
+* {
+    --azul-escuro: #23272F;
+    --azul-claro: #8D94A6;
+    --cinza: #8D94A6;
+
+    font-family: "Noto Sans", sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: var(--azul-escuro);
+}
+
+
