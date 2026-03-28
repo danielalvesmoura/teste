@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4.3rem;
+    background-color: #23272F;
+}
+

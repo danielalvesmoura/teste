@@ -1,0 +1,38 @@
+#container-input img {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: .5rem;
+}
+
+#container-input {
+    display: flex;
+    align-items: center;
+
+    width: 20rem;
+    height: 2.5rem;
+    background-color: #333A45;
+    border-radius: 2rem;
+    padding: 0 1rem;
+}
+
+#container-input input {
+    border: none;
+    background-color: transparent;
+    padding-top: 0.2rem;
+    width: 100%;
+
+    color: #cecece;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#container-input input::placeholder {
+    color: #8D94A6;
+    font-size: 1rem;
+    font-weight: 600;
+
+}
+
+#container-input input:focus {
+    outline: none;
+}
